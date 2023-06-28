@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Estilos para la tabla */
+.table-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.table-header {
+    background-color: #911b1b;
+    font-weight: bold;
+}
+
+.table-cell {
+    padding: 10px;
+}
+
+/* Estilos adicionales */
+.container {
+    margin-top: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Estilos para el cambio de color al pasar el mouse */
+.table-row:hover {
+    background-color: #ffcc00;
+}
